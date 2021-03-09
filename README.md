@@ -6,5 +6,5 @@
 * จงเขียนชื่อ-นามสกุล และรหัสของนักศึกษา ลงในไฟล์ readme.md นี้ 
 
 นางสาว กฤตธินันท์ ทวีบุญ รหัส 620610772
-Heroku link: 
+Heroku link: https://kittinun-test-express-heroku.herokuapp.com/
 
